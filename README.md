@@ -18,8 +18,21 @@ SafeGuard AI is an industry-grade fraud detection system that utilizes **XGBoost
 
 ## 🖼️ Demo Preview
 
-![Dashboard Metrics](images/dashboard_metrics.png)
-*(Note: Visuals are representative of the interactive React dashboard)*
+### 📊 Dashboard Metrics
+![Dashboard Metrics](01_dashboard_metrics.png)
+
+### 🎯 Threshold Tuner & Class Distribution
+![Threshold Tuner](02_class_distribution_threshold.png)
+
+### 📈 Precision-Recall & Signals
+![PR Curve](03_precision_recall_signals.png)
+
+### 🧪 Inference Sandbox
+![Inference Sandbox](04_inference_sandbox.png)
+
+### 📄 Transaction Audit Report (SHAP)
+![Audit Report](05_transaction_audit_report.png)
+
 
 ## 🏗️ System Architecture
 ```mermaid
