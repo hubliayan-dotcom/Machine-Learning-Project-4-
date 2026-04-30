@@ -1,0 +1,6 @@
+{
+  "name": "SafeGuard AI: Fraud Detection System",
+  "description": "An end-to-end industry-grade fraud detection system featuring XGBoost models, SHAP explainability, and a real-time monitoring dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["ML", "Data Science", "Real-time Monitoring"]
+}
